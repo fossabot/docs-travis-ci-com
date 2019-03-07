@@ -1,4 +1,5 @@
 # About this repository [![Build Status](https://travis-ci.org/travis-ci/docs-travis-ci-com.svg?branch=master)](https://travis-ci.org/travis-ci/docs-travis-ci-com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchadf1472%2Fdocs-travis-ci-com.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchadf1472%2Fdocs-travis-ci-com?ref=badge_shield)
 
 This is the documentation site for Travis CI! (<http://docs.travis-ci.com/>)
 
@@ -71,3 +72,6 @@ API V2 (and 2.1) documentation is maintained in `slate/source` and updated is no
 ## License
 
 Distributed under the [MIT license](https://opensource.org/licenses/MIT); the same as other Travis CI projects.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchadf1472%2Fdocs-travis-ci-com.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchadf1472%2Fdocs-travis-ci-com?ref=badge_large)
